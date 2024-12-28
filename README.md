@@ -1,2 +1,6 @@
 # ITBA-ProgramasTraducidos
-Repositorio para tener las traducciones ingles-español de los programas del ITBA
+
+Este repositorio tiene algunos programas de las materias del ITBA traducidos al ingles.
+
+## Contribuir
+Armen un PR manteniendo la estructura que ya existe. 
